@@ -59,7 +59,7 @@ button{
     border-radius: var(--input-font-size);
     background-color: var(--btn-bg-clr);
 }
-.login-form--display-none, .signup-form--display-none{
+.form--display-none, .activator--display-none{
     display: none;
 }
 .wrapper{
